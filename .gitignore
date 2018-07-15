@@ -42,5 +42,5 @@ jspm_packages
 json_e.egg-info
 docs/*
 build/
-dist/
+#dist/
 .hypothesis/
